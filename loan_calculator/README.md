@@ -1,4 +1,3 @@
-
 # 💰 Loan Payment Calculator (Tkinter GUI)
 
 This project is a simple **Loan Payment Calculator** written in Python using `tkinter`, Python’s built-in library for GUI applications.
@@ -142,12 +141,21 @@ root.mainloop()
 
 We use the **loan amortization formula**:
 
+```
 Monthly Payment = P × [ r(1 + r)^n ] / [ (1 + r)^n – 1 ]
+```
 
 Where:
 - **P** = principal (loan amount)
 - **r** = monthly interest rate (annual ÷ 12 ÷ 100)
 - **n** = total number of monthly payments
+
+---
+
+## 🙋 Author
+
+This project is shared by **Arush**, who is learning Python through small, hands-on projects.  
+> _"I'm enjoying this journey, and sharing it here in hopes that others starting out can follow along and learn with me."_
 
 ---
 
