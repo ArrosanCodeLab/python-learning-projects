@@ -142,9 +142,7 @@ root.mainloop()
 
 We use the **loan amortization formula**:
 
-\[
-	ext{Monthly Payment} = P 	imes rac{r(1+r)^n}{(1+r)^n - 1}
-\]
+Monthly Payment = P × [ r(1 + r)^n ] / [ (1 + r)^n – 1 ]
 
 Where:
 - **P** = principal (loan amount)
